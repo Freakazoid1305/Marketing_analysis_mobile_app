@@ -1,4 +1,4 @@
-# Marketing_analysis_mobile_app
+# Marketing analysis for mobile app
 
 We are the Marketing Analyst for the entertainment app Procrastinate Pro+. Despite huge investments in advertising, the company has been losing money for the past few months. Our task is to understand the reasons and help the company to become profitable.
 

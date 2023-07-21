@@ -18,5 +18,7 @@ To be explored:
 - What factors hinder customer acquisition (CR, retention and analytics)?
 
 
-Used libraries 
-pandas, matplotlib.pyplot, seaborn
+Used libraries:
+
+
+pandas, matplotlib, seaborn

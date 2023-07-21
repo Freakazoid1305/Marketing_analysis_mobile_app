@@ -16,3 +16,7 @@ To be explored:
 - How much money does each client bring (LTV by clients and in dynamics by weeks/months)?
 - When does the cost of customer acquisition pay off (ROI)?
 - What factors hinder customer acquisition (CR, retention and analytics)?
+
+
+Used libraries 
+pandas, matplotlib.pyplot, seaborn
